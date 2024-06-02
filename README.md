@@ -1,5 +1,5 @@
 # Reverse-a-string
-#leetcode problem number 2
+#leetcode problem number 1
 
 class Solution {
     public void reverseString(char[] s) {
